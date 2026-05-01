@@ -1,0 +1,22 @@
+# Build directories
+/build/
+/cmake-build-*/
+
+# Binaries
+/*.exe
+/*.out
+/library_app
+
+# CMake / compilation databases
+/compile_commands.json
+
+# IDE files
+.idea/
+.vscode/
+
+# OS / local files
+.DS_Store
+Thumbs.db
+
+# Local tool metadata
+.codex
