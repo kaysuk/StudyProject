@@ -1,0 +1,3 @@
+/home/byakko/CLionProjects/Study/StudyProject/SmartTrainStation/build/CMakeFiles/SmartTrainStation.dir
+/home/byakko/CLionProjects/Study/StudyProject/SmartTrainStation/build/CMakeFiles/edit_cache.dir
+/home/byakko/CLionProjects/Study/StudyProject/SmartTrainStation/build/CMakeFiles/rebuild_cache.dir
